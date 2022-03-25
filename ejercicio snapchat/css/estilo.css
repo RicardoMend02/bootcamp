@@ -1,0 +1,62 @@
+*{
+    font-family: Graphik-Semibold;
+}
+
+body{
+    background-color: #FFFC00;
+}
+
+.logo {
+    position: absolute;
+    width: 108px;
+    top: 9px;
+    left: 118px;
+    height: 64px;
+}
+
+.video {
+    width: 311px;
+    height: 552.88;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.inicio{
+    margin-top: 200px;
+    margin-left: 51px;
+}
+
+nav{
+    height: 45px;
+}
+
+.titulo {
+font-weight: revert;
+font-size: 45px;
+}
+
+.barra {
+    background-color: #ffffff;
+}
+
+.boton {
+    background-color: #000;
+    color: #ffffff;
+    margin-left: -3px;
+    height: 40px;
+}
+.select {
+    height: 39px;
+    border: transparent;
+}
+.numero {
+    height: 40px;
+    border: transparent;
+}
+.app {
+    margin-left: 20px;
+}
+.text {
+    opacity: 0.5;
+}

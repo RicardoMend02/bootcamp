@@ -1,0 +1,49 @@
+.img-google {
+    width: 75px;
+}
+.caja {
+    border: 1px solid #dbdbdb;
+    margin: 50px 450px  450px;
+    padding: 48px 40px 36px;
+    border-radius: 6px;
+}
+
+.form input {
+    height: 55px;
+    width: 360px;
+    margin: 20px 0 0;
+    padding-left: 15px;
+    border-radius: 6px;
+    border: 1px solid #dbdbdb;
+}
+
+.btn-correo {
+    color: #1a73e8;
+    font-weight: 500;
+    letter-spacing: .25px;
+    background-color: transparent;
+    padding: 0;
+    margin: 0 0 54px -80px;
+    border: 0;
+}
+
+.infor {
+    color: #5f6368;
+    line-height: 1.4286;
+    letter-spacing: -0.75px;
+    margin-bottom: 40px;
+}
+
+.cuenta {
+    margin-right: 140px;
+}
+
+.btn-siguiente {
+    background-color: #1a73e8;
+    color: #ffffff;
+    border-radius: 6px;
+    width: 108px;
+    height: 36px;
+    border: transparent;
+    margin-bottom: 30px;
+}
